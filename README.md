@@ -1,5 +1,5 @@
-# Geyser Extension Template
-A Geyser Extension template for creating Geyser Extensions. 
+# Geyser Extension 
+Geyser Extension that has GeyserConnect
 
 ## What are Geyser extensions?
 Geyser Extensions are the equivalent of “plugins”, but specifically for the Geyser platform. This brings the advantage of them being platform-agnostic, meaning that you won’t have to worry about supporting all platforms individually. Additionally, they will be, by design, only applied for Bedrock players joining via Geyser.
